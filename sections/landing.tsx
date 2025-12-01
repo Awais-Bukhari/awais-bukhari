@@ -19,7 +19,7 @@ export default function LandingSection() {
       </div>
       {/*Live clock*/}
       <div className="absolute right-10 bottom-10">
-        <LiveClock timeZone="Africa/Casablanca" />
+        <LiveClock timeZone="Asia/Pakistan" />
       </div>
       {/*Slogan*/}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 mt-8 leading-[14vw] lg:leading-[10vw] 2xl:leading-[9rem] font-medium h-[40rem] tracking-[-0.3rem]">
