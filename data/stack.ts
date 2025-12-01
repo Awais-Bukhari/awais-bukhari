@@ -57,29 +57,12 @@ export const stackData = [
         image: ReactJsImg,
         bgColor: "",
       },
-      {
-        id: 1,
-        title: "Next js",
-        image: NextJsImg,
-        bgColor: "",
-      },
-      {
-        id: 2,
-        title: "Svelte",
-        image: SvelteImg,
-        bgColor: "",
-      },
+      
     ],
   },
   {
     title: "Styling / FWs",
     stack: [
-      {
-        id: 0,
-        title: "Sass",
-        image: SassImg,
-        bgColor: "",
-      },
       {
         id: 1,
         title: "Tailwind css",
@@ -87,21 +70,9 @@ export const stackData = [
         bgColor: "",
       },
       {
-        id: 2,
-        title: "Shadcn/ui",
-        image: ShadcnUiImg,
-        bgColor: "#000",
-      },
-      {
         id: 3,
         title: "Material ui",
         image: MaterialUiImg,
-        bgColor: "",
-      },
-      {
-        id: 4,
-        title: "Daisy ui",
-        image: DaisyUiImg,
         bgColor: "",
       },
     ],
@@ -109,12 +80,6 @@ export const stackData = [
   {
     title: "Aimation",
     stack: [
-      {
-        id: 0,
-        title: "Framer motion",
-        image: FramerMotionImg,
-        bgColor: "",
-      },
       {
         id: 1,
         title: "Gsap",
@@ -137,29 +102,6 @@ export const stackData = [
         title: "Express js",
         image: ExpressJsImg,
         bgColor: "",
-      },
-      {
-        id: 1,
-        title: "Fastify",
-        image: FastifyPng,
-        bgColor: "",
-      },
-      {
-        id: 1,
-        title: "Nest js",
-        image: NestJsImg,
-        bgColor: "#D31D58",
-      },
-    ],
-  },
-  {
-    title: "Monorepoos",
-    stack: [
-      {
-        id: 0,
-        title: "NX Monorepoo",
-        image: NxImg,
-        bgColor: "#f5f5f5",
       },
     ],
   },
