@@ -20,13 +20,8 @@ export default function EducationCard() {
 }
 const EducationsData = [
   {
-    date: "2017 — 2020",
-    title: "Math & Computer science major",
-    subTitle: "FPL",
-  },
-  {
-    date: "2012 — 2016",
-    title: "Maths baccalaureate",
-    subTitle: "Errachidi school",
+    date: "2024 - Ongoing",
+    title: "BSGIS(Geographical Information System",
+    subTitle: "University of the Punjab",
   },
 ];
