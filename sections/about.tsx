@@ -26,7 +26,6 @@ export default function AboutSection() {
         </div>
         <div className="space-y-4 md:grid md:grid-cols-2 md:gap-4 md:space-y-0 2xl:grid-cols-3">
           <div className="space-y-4">
-            <InstructorCard />
             <CertificationsCard />
           </div>
           <div className="space-y-4">
