@@ -23,7 +23,7 @@ export default function ExperienceCard() {
 const experiencesData = [
   {
     date: "Oct 2025 - Present",
-    title: "MERN Stack Inter",
+    title: "MERN Stack Intern",
     subTitle: "Udevs",
     tag: "Remote",
   }
