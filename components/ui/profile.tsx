@@ -14,7 +14,7 @@ export default function Profile() {
         <div className="w-3 h-3 rounded-full bg-green-benzol border border-blue-cosmos absolute right-0 bottom-5"></div>
       </div>
       {/*Name*/}
-      <div className="text-3xl font-medium">MOHAMED HAJJI</div>
+      <div className="text-3xl font-medium">Syed Muhammad Awais Bukhari</div>
     </div>
   );
 }
