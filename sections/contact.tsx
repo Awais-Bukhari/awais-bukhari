@@ -48,13 +48,13 @@ export default function ContactSection() {
             <ContactCard
               title="Call us directly at"
               icon={<FaPhoneVolume className="fill-[#333] text-lg" />}
-              text="470 - 760 - 6331"
+              text="+92 314 046 5065"
               btnText="Call us"
             />
             <ContactCard
               title="Chat with us"
               icon={<MdEmail className="fill-[#333] text-lg" />}
-              text="Test@email.com"
+              text="awaisbukhariii786@email.com"
               btnText="Email us"
             />
           </div>
